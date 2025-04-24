@@ -11,7 +11,7 @@ SimpleUNet is a minimalistic yet powerful convolutional neural network designed 
 Clone this repository and install dependencies using:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/ArnasMatusevicius/ForestClassificationHW
 cd simple-unet
 pip install torch torchvision numpy matplotlib opencv-python
 ```
