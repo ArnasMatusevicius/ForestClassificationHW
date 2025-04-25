@@ -16,5 +16,5 @@ pip install numpy matplotlib opencv-python deepforest
 Data necessary for the 2nd task is in the data folder.
 
 # Tasks
-1. Using a different aerial photo, perform Tree Crown Segmentation.
+1. Using a different aerial photo, perform Tree Crown detection.
 2. Using the tiles from the example, create masks that would show Dead plants or inanimate objects.
